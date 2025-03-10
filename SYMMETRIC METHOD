@@ -1,1 +1,8 @@
+Create a virtual environment
 python3 -m venv myenv
+Activate the virtual environment: source myenv/bin/activate
+Install the cryptography library: pip install cryptography
+Run your script:
+While the virtual environment is activated, you can run your Python script as usual.
+Deactivate the virtual environment:
+When you're done, you can deactivate the virtual environment by running:
